@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Easy\clsFindMaxConsecutiveOnes.cs" />
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
+    <Compile Include="Easy\clsRemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\clsSquaresOfASortedArray.cs" />
     <Compile Include="Easy\clsTwoSum.cs" />
     <Compile Include="Easy\clsConcatenationOfArray.cs" />
