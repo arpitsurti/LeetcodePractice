@@ -46,6 +46,7 @@
     <Compile Include="Easy\clsFindMaxConsecutiveOnes.cs" />
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
     <Compile Include="Easy\clsSquaresOfASortedArray.cs" />
+    <Compile Include="Easy\clsTwoSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
