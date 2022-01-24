@@ -47,6 +47,7 @@
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
     <Compile Include="Easy\clsMaximumNumberOfWordsFoundInSentences.cs" />
     <Compile Include="Easy\clsMaximumSubarray.cs" />
+    <Compile Include="Easy\clsMergeSortedArray.cs" />
     <Compile Include="Easy\clsPlusOne.cs" />
     <Compile Include="Easy\clsRemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\clsRunningSumOf1DArray.cs" />

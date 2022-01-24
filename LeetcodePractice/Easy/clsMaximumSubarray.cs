@@ -31,6 +31,7 @@ namespace LeetcodePractice.Easy
     */
     class clsMaximumSubarray
     {
+        //https://leetcode.com/problems/maximum-subarray/discuss/1595186/Java-oror-Kadane-ororDivide-and-Conquer-oror-Dp
         public int MaxSubArray(int[] nums)
         {
             int currSum = nums[0];
