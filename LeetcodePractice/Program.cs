@@ -11,9 +11,8 @@ namespace LeetcodePractice
     {
         static void Main(string[] args)
         {
-            List<bool> lstResult = new List<bool>();
-            clsShuffleTheArray obj = new clsShuffleTheArray();
-            obj.Shuffle(new int[] { 2, 5, 1, 3, 4, 7 },3);
+            clsShuffleString obj = new clsShuffleString();
+            obj.RestoreString("codeleet", new int[] { 4, 5, 6, 7, 0, 2, 1, 3 });
         }
     }
 }
