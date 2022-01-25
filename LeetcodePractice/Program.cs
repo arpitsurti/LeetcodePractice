@@ -11,8 +11,8 @@ namespace LeetcodePractice
     {
         static void Main(string[] args)
         {
-            clsRemoveDuplicatesFromSortedArray obj = new clsRemoveDuplicatesFromSortedArray();
-            obj.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4});
+            clsShuffleTheArray obj = new clsShuffleTheArray();
+            obj.Shuffle(new int[] { 2, 5, 1, 3, 4, 7 },3);
         }
     }
 }
