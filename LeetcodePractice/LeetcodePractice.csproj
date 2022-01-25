@@ -46,6 +46,7 @@
     <Compile Include="Easy\clsFinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\clsFindMaxConsecutiveOnes.cs" />
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
+    <Compile Include="Easy\clsKidsWithTheGreatestNumberOfCandies.cs" />
     <Compile Include="Easy\clsMaximumNumberOfWordsFoundInSentences.cs" />
     <Compile Include="Easy\clsMaximumSubarray.cs" />
     <Compile Include="Easy\clsPlusOne.cs" />
