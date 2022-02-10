@@ -11,8 +11,8 @@ namespace LeetcodePractice
     {
         static void Main(string[] args)
         {
-            clsCountNumberOfPairsWithAbsoluteDifferenceK obj = new clsCountNumberOfPairsWithAbsoluteDifferenceK();
-            obj.CountKDifference(new int[] { 3, 2, 1, 5, 4 }, 2);
+            clsSplitAStringInBalancedStrings obj = new clsSplitAStringInBalancedStrings();
+            obj.BalancedStringSplit("RLRRLLRLRL");
         }
     }
 }
