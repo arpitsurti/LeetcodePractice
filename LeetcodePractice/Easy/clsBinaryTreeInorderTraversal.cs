@@ -30,8 +30,26 @@ namespace LeetcodePractice.Easy
     {
         public IList<int> InorderTraversal(TreeNode root)
         {
+            //IList<int> lstResult = new List<int>();
+            //helper(root, lstResult);
+            //return lstResult;
             IList<int> lstResult = new List<int>();
-            helper(root, lstResult);
+            Stack<TreeNode> st = new Stack<TreeNode>();
+            if (root != null)
+            {
+                TreeNode curr = root;
+                while (curr != null || st.Count != 0)
+                {
+                    while (curr != null)
+                    {
+                        st.Push(curr);
+                        curr = curr.left;
+                    }
+                    curr = st.Pop();
+                    lstResult.Add(curr.val);
+                    curr = curr.right;
+                }
+            }
             return lstResult;
         }
 
