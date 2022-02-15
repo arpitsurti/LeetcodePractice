@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\clsBinaryTreeInorderTraversal.cs" />
     <Compile Include="Easy\clsCountItemsMatchingARule.cs" />
     <Compile Include="Easy\clsCountNumberOfPairsWithAbsoluteDifferenceK.cs" />
     <Compile Include="Easy\clsCreateTargetArrayInTheGivenOrder.cs" />
@@ -54,9 +55,13 @@
     <Compile Include="Easy\clsHowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
     <Compile Include="Easy\clsJewelsAndStones.cs" />
     <Compile Include="Easy\clsKidsWithTheGreatestNumberOfCandies.cs" />
+    <Compile Include="Easy\clsMakeTheStringGreat.cs" />
+    <Compile Include="Easy\clsMaximumNestingDepthOfTheParentheses.cs" />
     <Compile Include="Easy\clsMaximumNumberOfWordsFoundInSentences.cs" />
     <Compile Include="Easy\clsMaximumSubarray.cs" />
+    <Compile Include="Easy\clsNextGreaterElementI.cs" />
     <Compile Include="Easy\clsPlusOne.cs" />
+    <Compile Include="Easy\clsRemoveAllAdjacentDuplicatesInString.cs" />
     <Compile Include="Easy\clsRemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\clsRichestCustomerWealth.cs" />
     <Compile Include="Easy\clsRunningSumOf1DArray.cs" />
@@ -66,8 +71,10 @@
     <Compile Include="Easy\clsSquaresOfASortedArray.cs" />
     <Compile Include="Easy\clsTwoSum.cs" />
     <Compile Include="Easy\clsConcatenationOfArray.cs" />
+    <Compile Include="Easy\clsValidParentheses.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
