@@ -51,6 +51,7 @@
     <Compile Include="Easy\clsFinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\clsFindMaxConsecutiveOnes.cs" />
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
+    <Compile Include="Easy\clsFindTargetIndicesAfterSortingArray.cs" />
     <Compile Include="Easy\clsGoalParserInterpretation.cs" />
     <Compile Include="Easy\clsHowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
     <Compile Include="Easy\clsIncreasingOrderSearchTree.cs" />
