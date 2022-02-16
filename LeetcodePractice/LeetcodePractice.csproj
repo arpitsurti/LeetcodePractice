@@ -53,6 +53,7 @@
     <Compile Include="Easy\clsFindNumbersWithEvenNumberOfDigits.cs" />
     <Compile Include="Easy\clsGoalParserInterpretation.cs" />
     <Compile Include="Easy\clsHowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
+    <Compile Include="Easy\clsIncreasingOrderSearchTree.cs" />
     <Compile Include="Easy\clsJewelsAndStones.cs" />
     <Compile Include="Easy\clsKidsWithTheGreatestNumberOfCandies.cs" />
     <Compile Include="Easy\clsMakeTheStringGreat.cs" />
