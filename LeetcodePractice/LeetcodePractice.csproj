@@ -60,6 +60,7 @@
     <Compile Include="Easy\clsMaximumNestingDepthOfTheParentheses.cs" />
     <Compile Include="Easy\clsMaximumNumberOfWordsFoundInSentences.cs" />
     <Compile Include="Easy\clsMaximumSubarray.cs" />
+    <Compile Include="Easy\clsMergeTwoBinaryTrees.cs" />
     <Compile Include="Easy\clsNextGreaterElementI.cs" />
     <Compile Include="Easy\clsPlusOne.cs" />
     <Compile Include="Easy\clsRangeSumOfBST.cs" />
